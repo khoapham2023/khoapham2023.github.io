@@ -29,35 +29,28 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
+      - idiom: China
+        level: Native
+    
+    sở thích:
+      - item: Bơi lội
         link:
 
-      - item: Snowboarding
+      - item: Bóng chuyền
         link:
 
-      - item: Cooking
+      - item: Bóng đá
         link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    title: TÓM TẮT
+    summary: 
+      Tên đầy đủ của tôi là Phạm Vũ Đăng Khoa tôi là một người đến từ Châu Phú
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    title: HỌC TẬP
+    - degree: Công nghệ thông tin
+      university: ĐẠI HỌC QUỐC GIA THÀNH PHỐ HCM - ĐẠI HỌC AN GIANG
+      time: 2018 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,31 +59,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - Chứng chỉ xạo lồn lv max
+    - Chứng chỉ hacker nasa...
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    title: Kinh Nghiệm
+    - role: Fresher Developer
+      time: 2022 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+       Trinhf độ xạo lồn lv max
+       có hiểu biết về xạo lồn
+       
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
@@ -116,7 +95,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Dự án
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
