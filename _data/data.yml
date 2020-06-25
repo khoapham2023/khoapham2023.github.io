@@ -90,18 +90,17 @@ projects:
         link: "#"
         tagline: "Mẫu trang web đáp ứng được thiết kế để giúp nhà phát triển / thiết kế web tiếp thị dịch vụ của họ."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        link: 
+        tagline: 
 
       - title: Atom
         link: "#"
         tagline: "Một  mẫu trang web toàn diện cho người khởi nghiệp / nhà phát triển ."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: 
+        link: 
+        tagline: 
 publications:
     title: Publications
     intro: |
