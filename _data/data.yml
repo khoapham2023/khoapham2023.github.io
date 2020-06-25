@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Phạm VĐ Khoa
     tagline: Kỹ Sư Lập Trình
-    avatar:  0814e6d3040df953a01c.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avt1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: khoapham2023@gmail.com
@@ -47,7 +47,6 @@ career-profile:
     summary: 
       Tên đầy đủ của tôi là Phạm Vũ Đăng Khoa tôi là một người đến từ Châu Phú tỉnh AG
 education:
-    title: HỌC TẬP
     - degree: Công nghệ thông tin
       university: ĐẠI HỌC QUỐC GIA THÀNH PHỐ HCM - ĐẠI HỌC AN GIANG
       time: 2018 - 2022
@@ -61,7 +60,6 @@ education:
     - Chứng chỉ xạo lồn lv max
     - Chứng chỉ hacker nasa...
 experiences:
-    title: Kinh Nghiệm
     - role: Fresher Developer
       time: 2022 - Present
       company: Startup Hubs, San Francisco
