@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: TÓM TẮT
     summary: 
-      Tên đầy đủ của tôi là Phạm Vũ Đăng Khoa tôi là một người đến từ Châu Phú tỉnh AG
+      Tên đầy đủ của tôi là Phạm Vũ Đăng Khoa tôi là một người đến từ Châu Phú tỉnh AG,là một người luôn nhiệt tình trong các hoạt động đoàn thể.
 education:
     - degree: Công nghệ thông tin
       university: ĐẠI HỌC QUỐC GIA THÀNH PHỐ HCM - ĐẠI HỌC AN GIANG
@@ -59,37 +59,25 @@ education:
     - degree: Chứng chỉ tiếng anh A2   
     
 experiences:
-    - role: Fresher Developer
-      time: 2022 - Present
-      company: Startup Hubs, San Francisco
+    - role: lập trình viên
+      time: 6/2022-7/2023
+      company: Công Ty lập Trình Web-APP Entertainment
       details: |
-       Trinhf độ xạo lồn lv max
-       có hiểu biết về xạo lồn
-       
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       tham gia xây dựng hệ thống quản trị dữ liệu cho máy tính lớn
+      
+ 
+         
+    - role: Kỹ sư lập trình 
+      time: 3/2024 - 9/2026
+      company: Công Ty TNHH Nasys
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Tham gia phát triển hệ thống ứng dụng tế
+          
+    - role: 
+      time: 
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 projects:
     title: projects
     intro: >
